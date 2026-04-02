@@ -1,6 +1,6 @@
 {
-  "version": "0.1.17",
-  "binary_name": "Prism-v0.1.17.msi",
-  "url": "https://github.com/jrockliffe/prism-updates/releases/download/v0.1.17/Prism-v0.1.17.msi",
-  "sha256": "f2dc8fc3aa6883c940fcdaebf6d52e3b0e30bf9fa191e8792fb6c3cf747ff737"
+  "version": "0.1.18",
+  "binary_name": "Prism-v0.1.18.msi",
+  "url": "https://github.com/jrockliffe/prism-updates/releases/download/v0.1.18/Prism-v0.1.18.msi",
+  "sha256": "3c299ac018fcfab119fa816005dde22e11de4d15a63917b39415f110f308db10"
 }
